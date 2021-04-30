@@ -756,8 +756,8 @@
 
             event.stopPropagation();
 
-            $html     .toggleClass('addModal');
-            $header   .toggleClass('addHide');
+            $html.toggleClass('addModal');
+            $header.toggleClass('addHide');
             $modalDemo.toggleClass('addModal');
 
           }
@@ -765,17 +765,17 @@
 
         //모달창 전체 이벤트
         $modalDemo.on({
-          click:  function(event){
+          click:function(event){
               event.stopPropagation();
               return false;
           }
         });
 
         $document.on({
-          click:  function(event){
+          click:function(event){
             if( event.target !== event.currentTarget ){
-              $html     .removeClass('addModal');
-              $header   .removeClass('addHide');
+              $html.removeClass('addModal');
+              $header.removeClass('addHide');
               $modalDemo.removeClass('addModal');   
             }
           }
