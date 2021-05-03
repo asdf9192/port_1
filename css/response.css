@@ -79,5 +79,46 @@
 
     #wrap #main #section1 .wrap .gap .container .slide-container .arrow-btn {padding-top:100px;text-align:center;}
 
-    
+    #wrap #main #section2 .wrap {width:100%;}
+    #wrap #main #section2 .wrap .gap {padding:0;}
+    #wrap #main #section2 .wrap .gap .container {width:690px;height:666.312px;}
+    #wrap #main #section2 .wrap .gap .container > ul {width:100%;}
+    #wrap #main #section2 .wrap .gap .container > ul .row {width:100%;}
+    #wrap #main #section2 .wrap .gap .container > ul .row1 {text-align:center;vertical-align:middle;}
+    #wrap #main #section2 .wrap .gap .container > ul .row1 .content-gap {margin:0;}
+    #wrap #main #section2 .wrap .gap .container > ul .row1 .content-gap .content {width:29.84693878vw;height:19.87244898vw;}
+    #wrap #main #section2 .wrap .gap .container > ul .row1 .content-gap .content img {width:100%;}
+
+    #wrap #main #section2 .wrap .gap .container > ul .row2 {width:555px;height:100%;text-align:center;}
+    #wrap #main #section2 .wrap .gap .container > ul .row2 .content-gap {padding:0 15px;}
+    #wrap #main #section2 .wrap .gap .container > ul .row2 .content-gap .content {width:100%;height:100%;text-align:center;}
+    #wrap #main #section2 .wrap .gap .container > ul .row2 .content-gap .content h3 {display:block;font-size:32.2px;font-weight:500;line-height:42px;margin-bottom:15px;}
+    #wrap #main #section2 .wrap .gap .container > ul .row2 .content-gap .content span {display:block;font-size:15px;font-weight:400;line-height:30px;}
+
+    #wrap #main #section2 .wrap .gap .container > ul .row3 {width:100%;height:115px;margin:56px 0;padding:0 15px;}
+    #wrap #main #section2 .wrap .gap .container > ul .row3 .content-gap {margin:0;}
+    #wrap #main #section2 .wrap .gap .container > ul .row3 .content-gap .content {text-align:center;}
+    #wrap #main #section2 .wrap .gap .container > ul .row3 .content-gap .content span:first-child {float:left;display:block;margin:60px 0;width:512.5px;height:1px;background:#828282;visibility:visible;}
+    #wrap #main #section2 .wrap .gap .container > ul .row3 .content-gap .content img {width:115px;vertical-align:middle;}
+    #wrap #main #section2 .wrap .gap .container > ul .row3 .content-gap .content span:last-child {float:right;display:block;margin:60px 0;width:512.5px;height:1px;background:#828282;visibility:visible;}
+
+    #wrap #main #section2 .wrap .gap .container > ul .row4 {width:100%;height:100%;}
+    #wrap #main #section2 .wrap .gap .container > ul .row4 .content-gap {padding:0 15px;}
+    #wrap #main #section2 .wrap .gap .container > ul .row4 .content-gap .content {width:100%;}
+    #wrap #main #section2 .wrap .gap .container > ul .row4 .content-gap .content .col {width:25%;text-align:center;line-height:12px;}
+    #wrap #main #section2 .wrap .gap .container > ul .row4 .content-gap .content .col1 {display:block;font-size:13px;font-weight:500;}
+    #wrap #main #section2 .wrap .gap .container > ul .row4 .content-gap .content .col1 span {color:#232323;}
+    #wrap #main #section2 .wrap .gap .container > ul .row4 .content-gap .content .col1 p {color:#828282;}
+
+    #wrap #main #section2 .wrap .gap .container > ul .row4 .content-gap .content .col2 {display:block;font-size:13px;font-weight:500;}
+    #wrap #main #section2 .wrap .gap .container > ul .row4 .content-gap .content .col2 span {color:#232323;}
+    #wrap #main #section2 .wrap .gap .container > ul .row4 .content-gap .content .col2 p {color:#828282}
+
+    #wrap #main #section2 .wrap .gap .container > ul .row4 .content-gap .content .col3 {display:block;font-size:13px;font-weight:500;}
+    #wrap #main #section2 .wrap .gap .container > ul .row4 .content-gap .content .col3 span {color:#232323;}
+    #wrap #main #section2 .wrap .gap .container > ul .row4 .content-gap .content .col3 p {color:#828282;}
+
+    #wrap #main #section2 .wrap .gap .container > ul .row4 .content-gap .content .col4 {display:block;font-size:13px;font-weight:500;}
+    #wrap #main #section2 .wrap .gap .container > ul .row4 .content-gap .content .col4 span {color:#232323;}
+    #wrap #main #section2 .wrap .gap .container > ul .row4 .content-gap .content .col4 a {color:#828282}
 }
